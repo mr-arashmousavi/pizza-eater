@@ -82,7 +82,7 @@ void jump(int ch) {
   int c_line = g.p.pos.line;
   int c_col = g.p.pos.col;
 
-  printf("%d\n", c_line);
+  // printf("%d\n", c_line);
   if (c_line == 00) {
     c_line += 1;
 

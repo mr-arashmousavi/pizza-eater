@@ -89,8 +89,8 @@ public:
   }
 
 private:
-  const char *PLAYER_CHAR = "P";
-  const char *FOOD_CHAR = "F";
+  const char *PLAYER_CHAR = "🖥";
+  const char *FOOD_CHAR = "🍸";
   const char *ENEMY_CHAR = "🕱";
 };
 
